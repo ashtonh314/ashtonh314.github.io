@@ -1,0 +1,119 @@
+
+.container {
+    margin: 5px;
+}
+
+img.tim {
+    max-height: 150px;
+    border-radius: 50%;
+}
+
+.header {
+    background-color: #F1BE4B;
+    border-radius: 10px;
+    text-align: center;
+    border: 2px solid #998965;
+}
+
+.nav {
+    background-color: #d8a354;
+}
+
+
+.socials {
+    background-color: #d8a354;
+}
+
+
+img.button {
+    filter: sepia(60%);
+}
+
+img.button:hover {
+    filter: none;
+}
+
+img.d-block w-100 {
+    max-height: 100px;
+}
+
+
+img.downtown {
+    max-height: 90px;
+    padding-top: 1%;
+}
+
+h1 {
+    font-family: 'Bevan', cursive;
+    font-size: 70px;
+    justify-content: center;
+    padding-top: 30px;
+}
+
+h4 {
+    font-family: 'Crimson Text', serif;
+    color: black;
+}
+
+p {
+    font-family: 'Crimson Text', serif;
+    text-align: center;
+}
+
+.fb {
+    border: 2px solid #998965;
+}
+
+.facebook {
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-top: 5%;
+}
+
+h3 {
+    font-family: 'Bevan', cursive;
+    font-size: 1.8em;
+    text-align: center;
+    border-top: double 5px #d8a354; 
+    border-bottom: double 5px #d8a354;
+    padding-top: 5px;
+}
+
+.footer {
+    background-color: #998965;
+    padding: 3px;
+}
+
+.hours {
+    background-color: #998965;
+    font-size: 14px;
+    text-align: center;
+    padding-top: 1%;
+}
+
+.foot {
+    border-radius: 10px;
+}
+
+a {
+    color: black;
+    font-family: 'Open Sans', sans-serif;
+}
+
+a:hover {
+    color: white;
+}
+
+a:visited {
+    color: black;
+}
+
+.aboutinfo {
+    border: 2px solid #F1BE4B;
+}
+
+.aboutpic {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
