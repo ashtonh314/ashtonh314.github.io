@@ -22,6 +22,7 @@ img.tim {
 
 .socials {
     background-color: #d8a354;
+    text-align: center;
 }
 
 
@@ -67,7 +68,6 @@ p {
 }
 
 .fabceookdiv {
-   display: flex;
     align-items: center;
     justify-content: center;
 }
@@ -101,6 +101,14 @@ h3 {
     padding-top: 1%;
 }
 
+img.downtown2 {
+    max-height: 90px;
+    padding-top: 1%;
+}
+
+.downtownsmall {
+    text-align: center;
+}
 
 .foot {
     border-radius: 10px;
@@ -123,9 +131,15 @@ a:visited {
     text-align: center;
 }
 
+iframe.map {
+    display:block;
+    width:100%;
+}
+
 .foodpic {
     margin: 20px;
-    max-width: 200px;
+    max-width: 38%;
+    max-height: 200px;
     border-radius: 30px;
     display: inline-block;
     opacity: 0.8;
