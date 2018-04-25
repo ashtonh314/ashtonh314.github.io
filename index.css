@@ -3,6 +3,10 @@
     margin: 5px;
 }
 
+.container-fluid.final {
+    margin: 0px;
+}
+
 img.tim {
     max-height: 150px;
     border-radius: 50%;
@@ -22,12 +26,13 @@ img.tim {
 
 .socials {
     background-color: #d8a354;
-    text-align: center;
+    text-align: left;
 }
 
 
 img.button {
     filter: sepia(60%);
+    height: 40px;
 }
 
 img.button:hover {
@@ -99,16 +104,16 @@ h3 {
     font-size: 14px;
     text-align: center;
     padding-top: 1%;
+    margin-bottom: 0px;
 }
 
 img.downtown2 {
-    max-height: 90px;
-    padding-top: 1%;
+    height: 80px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 
-.downtownsmall {
-    text-align: center;
-}
 
 .foot {
     border-radius: 10px;
